@@ -16,13 +16,20 @@ Here are some ideas to get you started:
 -->
 
 
------------------------------------------------------------------------------------
+
+
+
+
+
+ -----------------------------------------------------------------------------------
 🚀 Web Developer | Fullstack Developer | Interested in Data Science & Artificial Intlligence.
 💻 Passionate about creating high-performance, intuitive web applications.
-📍From  Tunisia Tn | 🌐 Open to global opportunities
-  👧🏽 About me
- ---------------------------------------------------------------------------------------
+📍From  Tunisia Tn | 🌐 Open to global opportunities 
+-----------------------------------------------------------------------------------
 
+  👧🏽 About me
+
+----------------------------------------------------------------------------------------
 - 🎓 Graduated with Highest Honour in Data Science from FSEGT- Campus El Manar.
 - 🌱 I'm currently exploring Generative AI and enhancing my expertise in Web Scraping.
 - - 👯 I’m looking to collaborate with Sybernetys' dev team on NextJs applications and solutions to expand my fields of knowledge.
