@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
- -----------------------------------------------------------------------------------
- 
+--> 
  🚀 Web Developer | Fullstack Developer | Interested in Data Science & Artificial 
  Intelligence.
 
