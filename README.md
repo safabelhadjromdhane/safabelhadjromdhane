@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🎓 Graduated with Highest Honour in Data Science from FSEGT- Campus El Manar.
 - 🌱 I'm currently exploring Generative AI and enhancing my expertise in Web Scraping.
 -  👯 I’m looking to collaborate with Sybernetys' dev team on NextJs applications and solutions to expand my fields of knowledge.
-- 💬 Ask me about ## Full-Stack Development, Angular, React, NextJs, Express, and NodeJs.
+- 💬 Ask me about Full-Stack Development, Angular, React, NextJs, Express, and NodeJs.
 
 --------------------------------------------------------------------------------------
 📜 Certifications
