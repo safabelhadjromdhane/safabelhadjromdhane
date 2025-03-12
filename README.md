@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀## Web Developer | ## Fullstack Developer | ## Interested in Data Science & Artificial Intlligence.
+
+
+-----------------------------------------------------------------------------------
+🚀 Web Developer | Fullstack Developer | Interested in Data Science & Artificial Intlligence.
 💻 Passionate about creating high-performance, intuitive web applications.
-📍From  ## Tunisia Tn | 🌐 Open to global opportunities
+📍From  Tunisia Tn | 🌐 Open to global opportunities
   👧🏽 About me
  ---------------------------------------------------------------------------------------
 
