@@ -56,8 +56,6 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/safabelhadjromdhane)   
-
 
 
 
@@ -116,19 +114,12 @@
   <tr colspan="6" align="right">
    <td>
     
- <a href="https://www.architectis.fr/" onclick="window.open(this.href, '_blank'); return false;">
+ <a href="https://www.linkea-consulting.fr/" onclick="window.open(this.href, '_blank'); return false;">
            
-   <img src="https://www.architectis.fr//assets/icons/logo-architectis.webp" width="60"  height="50"/>
+   <img src="https://www.linkea-consulting.fr/assets/icons/logo-architectis.webp" width="60"  height="50"/>
    </td>
   </tr>
-   <tr colspan="6" align="right">
-   <td>
-    
- <a href="https://www.architectis.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           
-   <img src="https://www.architectis.fr//assets/icons/logo-architectis.webp" width="60"  height="50"/>
-   </td>
-  </tr>
+   
  </table>
 </p>
 
