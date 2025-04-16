@@ -1,9 +1,6 @@
 
 
-<h2 align="left">## Hi there👋🏽,  
- I'm ✨ _Safa Belhadj Romdhane_ ✨ </h2>
-<h3 align="left"><i>"Every end is a new beginning"</i></h3>
-<img align="right" src="./e87d2955-75e0-467c-97e0-d83e4fc0e875.png" height="250"/>
+
 <!--
 **safabelhadjromdhane/safabelhadjromdhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +14,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> 
+-->
+
+
+<h2 align="left">## Hi there👋🏽,  
+ I'm ✨ _Safa Belhadj Romdhane_ ✨ </h2>
+<h3 align="left"><i>"Every end is a new beginning"</i></h3>
+<img align="right" src="./e87d2955-75e0-467c-97e0-d83e4fc0e875.png" height="250"/>
+
+  
  🚀 Web Developer | Fullstack Developer | Interested in Data Science & Artificial 
  Intelligence.
 
