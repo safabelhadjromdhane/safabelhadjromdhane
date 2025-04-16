@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
   
   
-  <td colspan="10" align="left"> 
+  <td colspan="6" align="left"> 
   
    <a href="https://www.architectis.fr/" onclick="window.open(this.href, '_blank'); return false;">
            
@@ -96,6 +96,14 @@ Here are some ideas to get you started:
 <p align=center>
  <table style="width:100% align="right">
   <tr colspan="6" align="right">
+   <td>
+    
+ <a href="https://www.architectis.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           
+   <img src="https://www.architectis.fr//assets/icons/logo-architectis.webp" width="60"  height="50"/>
+   </td>
+  </tr>
+   <tr colspan="6" align="right">
    <td>
     
  <a href="https://www.architectis.fr/" onclick="window.open(this.href, '_blank'); return false;">
