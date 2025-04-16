@@ -79,7 +79,7 @@
   
   <a href="https://facilitys-international.fr/" onclick="window.open(this.href, '_blank'); return false;">
           
-  <img src="https://facilitys-international.fr/assets/icons/logo-facilitys.webp" width="60"  height="35"/>
+  <img src="https://facilitys-international.fr//assets/icons/logo-facilitys.webp" width="60"  height="35"/>
          
  </a>
  
