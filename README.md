@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
  
 
-<h2 align="left">## Hi there👋🏽,  I'm ✨ _Safa Belhadj Romdhane_ ✨ </h2>
+<h2 align="left"> Hi there👋🏽,  I'm ✨ _Safa Belhadj Romdhane_ ✨ </h2>
 <h3 align="left"><i>"Every end is a new beginning"</i></h3>
 <img align="right" src="" height="250"/>
 
@@ -52,14 +52,14 @@ Here are some ideas to get you started:
   
   <tr>
      
-   <td colspan="10" align="left"> 
+   <td colspan="6" align="left"> 
     <a href="https://https://www.ikonoklass.fr/" onclick="window.open(this.href, '_blank'); return false;">
        <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" width="70"  height="35"/>
     </a>
         
   </td>
 
- <td colspan="10" align="left">
+ <td colspan="6" align="left">
   
   <a href="https://facilitys-international.fr/" onclick="window.open(this.href, '_blank'); return false;">
           
@@ -93,9 +93,17 @@ Here are some ideas to get you started:
 
 
 
-<p align=center></p>
-<p align=center></p>
-<p align=center></p>
+<p align=center>
+ <table style="width:100% align="right">
+  <tr colspan="6" align="right">
+   <td>
+<a href="https://angular.io" target="_blank" rel="noreferrer">  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" />
+   </td>
+  </tr>
+ </table>
+</p>
+
 
   
 ### 🛠️ Tech Stack
@@ -146,7 +154,7 @@ Here are some ideas to get you started:
 
 
 
-   ### 🌍 Languages
+ ### 🌍 Languages
 
 
  -  English  : (C1)
