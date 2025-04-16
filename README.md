@@ -56,8 +56,7 @@
 
 
 
-  **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/safabelhadjromdhane)**  
-  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/safabelhadjromdhane)   
 
 
 
@@ -241,4 +240,5 @@
 <!-- Contribution chart (radar-style) -->
   <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
 </div>
-"
+
+
