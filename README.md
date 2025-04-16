@@ -42,8 +42,31 @@ Here are some ideas to get you started:
 - 📫 Reach me at: **safabelhadjromdhane@gmail.com**
 
 
-### 🛠️ Tech Stack
+-------------------------------------------------------------------------------------------------
+### 🚀 Some of My Projects :
+---------------------------------------------------------------------------------------------------
+<table style="width:100%" align="left">
+  
+  <tr>
+        <td colspan="10" align="left"> <a href="https://https://www.ikonoklass.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" width="70"  height="35"/>
+          </a></td>
 
+ <td colspan="10" align="left"> <a href="https://facilitys-international.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://facilitys-international.fr/assets/icons/logo-facilitys.webp" width="60"  height="35"/>
+          </a></td>
+
+  <td colspan="10" align="left"> <a href="https://www.architectis.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.architectis.fr//assets/icons/logo-architectis.webp" width="60"  height="50"/>
+          </a></td>
+
+
+  </tr> 
+ 
+  </table>
+----------------------------------------------------------------------------------------------------
+### 🛠️ Tech Stack
+-----------------------------------------------------------------------------------------------------
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
@@ -53,11 +76,11 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
