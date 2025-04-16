@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 <h2 align="left"> Hi there👋🏽,  I'm ✨ _Safa Belhadj Romdhane_ ✨ </h2>
 <h3 align="left"><i>"Every end is a new beginning"</i></h3>
-<img align="right" src="" height="250"/>
+<img align="right" src="" height="250" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safabelhadjromdhane&theme=tokyonight&utcOffset=8" />
+
 
   
  🚀 Web Developer | Fullstack Developer | Interested in Data Science & Artificial 
