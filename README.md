@@ -32,13 +32,15 @@
 
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
+
 🚀 Web Developer | Fullstack Developer | Interested in Data Science & Artificial Intelligence.
 
 💻 Passionate about creating high-performance, intuitive web applications.
 
 📍From  Tunisia Tn | 🌐 Open to global opportunities 
+
 
 ----------------------------------------------------------------------------------------
   👧🏽 About me
@@ -51,6 +53,7 @@
 - 👯 I’m looking to collaborate with **Sybernetys' dev team**
 - 💻 I'm a **Full Stack Developer** passionate about building high-performance apps
 - 📫 Reach me at: **safabelhadjromdhane@gmail.com**
+
 
 
 ### 🚀 Some of My Projects :
@@ -126,6 +129,7 @@
 
 
   
+
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -166,11 +170,13 @@
 
 <p align="center">
 
+  
   ### 📜 Certifications
 
   
  - Responsive Web Design - FreeCodeCamp
  - Python - Simplilearn
+
 
 
 
@@ -183,6 +189,7 @@
  -  Arabic  : Native Language
 
     
+  
   ### 📈 Volunteer Work
 
 
@@ -191,6 +198,7 @@
 
 
 
+  
   ### ✨ Fun Fact
 
  
@@ -205,6 +213,7 @@
 
 
 <div class="flex flex-cols-3" align="center">
+ 
  
  ## 📊 GitHub Stats
 
