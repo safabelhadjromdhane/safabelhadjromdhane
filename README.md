@@ -1,9 +1,11 @@
 
 <a >
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=986960&center=true&vCenter=true&lines=Hi+%2C+I%27m+Safa+Belhadj+Romdhane;💻+I%27m+a+Full+stack+developer;" alt="safa" /></a>
-    <a >"I never dreamed about success I worked for it"</a>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=986960&center=true&vCenter=true&lines=Hi+%2C+I%27m+Safa+Belhadj+Romdhane;💻+I%27m+a+Full+stack+developer;" align="left" alt="safa" />
+</a>
+    <a> <img align="right" alt="coding" width="310" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif"></a>
 
- <img align="right" alt="coding" width="310" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
+<a> "I never dreamed about success I worked for it" </a>
+
   
  🚀 Web Developer | Fullstack Developer | Interested in Data Science & Artificial 
  Intelligence.
