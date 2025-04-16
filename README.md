@@ -4,16 +4,40 @@
 </a>
     <a> <img align="right" alt="coding" width="310" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif"></a>
 </p>
-<hr widht="100%">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
   
- 🚀 Web Developer | Fullstack Developer | Interested in Data Science & Artificial 
- Intelligence.
+### 🚀 Web Developer | Fullstack Developer | Interested in Data Science & Artificial Intelligence.
 
- 💻 Passionate about creating high-performance, intuitive web applications.
+### 💻 Passionate about creating high-performance, intuitive web applications.
 
- 📍From  Tunisia Tn | 🌐 Open to global opportunities 
+### 📍From  Tunisia Tn | 🌐 Open to global opportunities 
 
---------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
   👧🏽 About me
 ----------------------------------------------------------------------------------------
 
@@ -27,7 +51,6 @@
 
 
 ### 🚀 Some of My Projects :
-
 
 
 
