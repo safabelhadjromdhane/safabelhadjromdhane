@@ -194,15 +194,15 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
+<div class="flex flex-cols-2" align="center">
  
  ## 📊 GitHub Stats
 
 <!-- Stats card -->
  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&theme=radical&hide_title=true" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&theme=radical&hide_title=true" />
 
 <!-- Contribution chart (radar-style) -->
-  <img  align="right" src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
 
 </p>
