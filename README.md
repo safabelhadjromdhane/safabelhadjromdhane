@@ -199,13 +199,10 @@ Here are some ideas to get you started:
  ## 📊 GitHub Stats
 
 <!-- Stats card -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&theme=radical&hide_title=true" />
-</p>
+ 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&theme=radical&hide_title=true" />
 
 <!-- Contribution chart (radar-style) -->
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
-</p>
+  <img  align="right" src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
 
 </p>
