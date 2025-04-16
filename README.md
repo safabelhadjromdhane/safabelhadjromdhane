@@ -224,7 +224,7 @@
 <!-- Contribution chart (radar-style) -->
   <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
 
-  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safabelhadjromdhane&layout=compact&theme=radical)  
   <!-- GitHub Activity Graph -->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safabelhadjromdhane&theme=tokyonight" />
