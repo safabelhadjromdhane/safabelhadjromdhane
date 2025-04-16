@@ -1,3 +1,9 @@
+<a >
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=ff8000&center=true&vCenter=true" alt="safa" /></a>
+    <a >"Experience is the name everyone gives to their mistakes" – Oscar Wilde</a>
+<p/>
+
+
 
 
 ## Hi there👋🏽, I'm ✨ _Safa Belhadj Romdhane_ ✨ 
