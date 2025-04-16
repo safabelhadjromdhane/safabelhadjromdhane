@@ -187,3 +187,25 @@ Here are some ideas to get you started:
    * I enjoy gardening and reading literature and poetry books in my spare time.
 
 </p>
+
+
+
+
+
+
+
+<p align="center">
+ 
+ ## 📊 GitHub Stats
+
+<!-- Stats card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&theme=radical&hide_title=true" />
+</p>
+
+<!-- Contribution chart (radar-style) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
+</p>
+
+</p>
