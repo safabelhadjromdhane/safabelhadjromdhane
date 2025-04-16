@@ -1,6 +1,6 @@
 
 <a >
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=986960&center=true&vCenter=true&lines=Hi+👋🏽%2C+I%27m+Safa+Belhadj+Romdhane;💻+I%27m+a+Full+stack+developer;" alt="safa" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=986960&center=true&vCenter=true&lines=Hi+%2C+I%27m+Safa+Belhadj+Romdhane;💻+I%27m+a+Full+stack+developer;" alt="safa" /></a>
     <a >"I never dreamed about success I worked for it"</a>
 
   
