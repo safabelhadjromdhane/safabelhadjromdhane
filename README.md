@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
 
-
-<h2 align="left">## Hi there👋🏽,  
- I'm ✨ _Safa Belhadj Romdhane_ ✨ </h2>
+<h2 align="left">## Hi there👋🏽,  I'm ✨ _Safa Belhadj Romdhane_ ✨ </h2>
 <h3 align="left"><i>"Every end is a new beginning"</i></h3>
-<img align="right" src="./e87d2955-75e0-467c-97e0-d83e4fc0e875.png" height="250"/>
+<img align="right" src="" height="250"/>
 
   
  🚀 Web Developer | Fullstack Developer | Interested in Data Science & Artificial 
@@ -52,8 +51,13 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
@@ -66,13 +70,12 @@ Here are some ideas to get you started:
   
  - Responsive Web Design - FreeCodeCamp
  - Python - Simplilearn
- - 
 
 ----------------------------------------------------------------------------------------
  🌍 Languages
 ----------------------------------------------------------------------------------------
 
- - English  : (C1)
+ -  English  : (C1)
  -  French  : (C2)
  -  Spanish : (A2)
  -  Arabic  : Native Language
