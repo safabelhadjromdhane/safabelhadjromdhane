@@ -209,7 +209,7 @@
  ## 📊 GitHub Stats
 
  
-<div class="flex flex-cols-4" align="center">
+<div class="flex flex-cols-6" align="center">
  
 
 
@@ -221,19 +221,13 @@
   
 
 
- <!-- Stats card -->
-<img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&theme=radical&hide_title=true" />
-   <!-- GitHub Activity Graph -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safabelhadjromdhane&theme=tokyonight" />
-
-
 </div>
 
 
 
 
 
-<div class="flex flex-cols-2" align="center">
+<div class="flex flex-cols-6" align="center">
 
 
 
