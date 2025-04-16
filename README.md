@@ -1,28 +1,7 @@
 
-
-
-<!--
-**safabelhadjromdhane/safabelhadjromdhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-<h2 align="left"> Hi there👋🏽,  I'm ✨ _Safa Belhadj Romdhane_ ✨ </h2>
-<h3 align="left"><i>"Every end is a new beginning"</i></h3>
-<img align="right" src="" height="250" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safabelhadjromdhane&theme=tokyonight&utcOffset=8" />
-
+<a >
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=986960&center=true&vCenter=true&lines=Hi+👋🏽%2C+I%27m+Safa+Belhadj+Romdhane;💻+I%27m+a+Full+stack+developer;" alt="safa" /></a>
+    <a >"I never dreamed about success I worked for it"</a>
 
   
  🚀 Web Developer | Fullstack Developer | Interested in Data Science & Artificial 
