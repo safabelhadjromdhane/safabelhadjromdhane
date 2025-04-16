@@ -53,7 +53,10 @@
 - 👯 I’m looking to collaborate with **Sybernetys' dev team**
 - 💻 I'm a **Full Stack Developer** passionate about building high-performance apps
 - 📫 Reach me at: **safabelhadjromdhane@gmail.com**
-                   **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/safabelhadjromdhane)**  
+
+
+
+  **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/safabelhadjromdhane)**  
   
 
 
