@@ -194,7 +194,7 @@ Here are some ideas to get you started:
 
 
 
-<div class="flex flex-cols-2" align="center">
+<div class="flex flex-cols-3" align="center">
  
  ## 📊 GitHub Stats
 
@@ -204,5 +204,12 @@ Here are some ideas to get you started:
 
 <!-- Contribution chart (radar-style) -->
   <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
+
+  
+  <!-- GitHub Activity Graph -->
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safabelhadjromdhane&theme=tokyonight" />
+
+
 
 </p>
