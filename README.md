@@ -52,14 +52,14 @@ Here are some ideas to get you started:
   
   <tr>
      
-   <td colspan="10" align="left"> 
+   <td colspan="6" align="left"> 
     <a href="https://https://www.ikonoklass.fr/" onclick="window.open(this.href, '_blank'); return false;">
        <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" width="70"  height="35"/>
     </a>
         
   </td>
 
- <td colspan="10" align="left">
+ <td colspan="6" align="left">
   
   <a href="https://facilitys-international.fr/" onclick="window.open(this.href, '_blank'); return false;">
           
@@ -98,9 +98,9 @@ Here are some ideas to get you started:
   <tr colspan="6" align="right">
    <td>
     
- <!--<a href="https://angular.io" target="_blank" rel="noreferrer">  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" />
-  -->
+ <a href="https://www.architectis.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           
+   <img src="https://www.architectis.fr//assets/icons/logo-architectis.webp" width="60"  height="50"/>
    </td>
   </tr>
  </table>
