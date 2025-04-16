@@ -79,7 +79,7 @@
   
   <a href="https://facilitys-international.fr/" onclick="window.open(this.href, '_blank'); return false;">
           
-  <img src="https://facilitys-international.fr//assets/icons/logo-facilitys.webp" width="60"  height="35"/>
+  <img src="https://facilitys-international.fr/assets/icons/logo-facilitys.webp" width="60"  height="35"/>
          
  </a>
  
@@ -91,7 +91,7 @@
   
    <a href="https://www.architectis.fr/" onclick="window.open(this.href, '_blank'); return false;">
            
-   <img src="https://www.architectis.fr//assets/icons/logo-architectis.webp" width="60"  height="50"/>
+   <img src="https://www.architectis.fr/assets/icons/logo-architectis.webp" width="60"  height="50"/>
     
        
    </a>
@@ -116,7 +116,7 @@
     
  <a href="https://www.linkea-consulting.fr/" onclick="window.open(this.href, '_blank'); return false;">
            
-   <img src="https://www.linkea-consulting.fr/assets/icons/logo-architectis.webp" width="60"  height="50"/>
+   <img src="https://www.linkea-consulting.fr/assets/icons/logo.webp" width="60"  height="50"/>
    </td>
   </tr>
    
