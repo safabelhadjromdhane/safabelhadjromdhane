@@ -212,7 +212,7 @@
 
 
 
-<div class="flex flex-cols-3" align="center">
+<div class="flex flex-cols-4" align="center">
  
  
  ## 📊 GitHub Stats
