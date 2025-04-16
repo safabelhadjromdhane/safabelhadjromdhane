@@ -212,17 +212,12 @@
 
 
 
-<div class="flex flex-cols-4" align="center">
+<div class="flex flex-cols-2" align="center">
  
  
  ## 📊 GitHub Stats
 
-<!-- Stats card -->
- 
-  <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&theme=radical&hide_title=true" />
 
-<!-- Contribution chart (radar-style) -->
-  <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safabelhadjromdhane&layout=compact&theme=radical)  
   <!-- GitHub Activity Graph -->
@@ -231,5 +226,13 @@
 
 
 
-</p>
+</div>
+<div class="flex flex-cols-2" align="center">
+    <!-- Stats card -->
+ 
+  <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&theme=radical&hide_title=true" />
+
+<!-- Contribution chart (radar-style) -->
+  <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
+</div>
 "
