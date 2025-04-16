@@ -97,8 +97,10 @@ Here are some ideas to get you started:
  <table style="width:100% align="right">
   <tr colspan="6" align="right">
    <td>
-<a href="https://angular.io" target="_blank" rel="noreferrer">  
+    
+ <!--<a href="https://angular.io" target="_blank" rel="noreferrer">  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" />
+  -->
    </td>
   </tr>
  </table>
