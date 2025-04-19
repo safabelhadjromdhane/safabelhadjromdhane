@@ -11,11 +11,6 @@
 
 
 
-🚀 Web Developer | Fullstack Developer | Interested in Data Science & Artificial Intelligence.
-
-💻 Passionate about creating high-performance, intuitive web applications.
-
-📍From  Tunisia Tn | 🌐 Open to global opportunities 
 
 
 
@@ -32,16 +27,10 @@
 
 
 
-<p>
 
 
 
-
-
-
-
-
-    
+<p>  
 <a >
 <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=986960&center=true&vCenter=true&lines=Hi+%2C+I%27m+Safa+Belhadj+Romdhane;💻+I%27m+a+Full+stack+developer;" align="left" alt="safa" />
 </a>
@@ -120,7 +109,7 @@
 
 
   
-  -----------------------------------------------------------------------------------------------------------------
+  -------------------------------------------------------------------------------------------------------------------
   👧🏽 About me
 ---------------------------------------------------------------------------------------------------------------------
   
