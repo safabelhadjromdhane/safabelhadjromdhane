@@ -1,6 +1,6 @@
 
   
-  <section class="my-auto">
+  <section class="my-auto py-auto">
        
 
 
@@ -140,8 +140,10 @@ GitHub Profile :
 
 </div>
 
+<div class="my-auto py-auto">
 
-  ### 🚀 Some of My Projects :
+  
+### 🚀 Some of My Projects :
 
 
 
@@ -320,5 +322,7 @@ GitHub Profile :
 
   
   </div>
+
+</div>
 
 
