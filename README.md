@@ -122,8 +122,10 @@ GitHub Profile :
 
   <p class="pb-10"></p>
   </section>
+ <section align="center my-12">
 
-  <div class="my-auto">
+
+   <div class="my-auto">
   
   👧🏽 About me
 ---------------------------------------------------------------------------------------------------------------------
@@ -324,5 +326,9 @@ GitHub Profile :
   </div>
 
 </div>
+ </section>
+  
+
+
 
 
