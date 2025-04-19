@@ -1,8 +1,28 @@
 <p>
+
+
+
+
+
+
+
+
+    
 <a >
 <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=986960&center=true&vCenter=true&lines=Hi+%2C+I%27m+Safa+Belhadj+Romdhane;💻+I%27m+a+Full+stack+developer;" align="left" alt="safa" />
 </a>
-    <a> <img align="right" alt="coding" width="310" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif"></a>
+     
+    
+    
+    
+
+
+
+
+
+<a> 
+<img align="right" alt="coding" width="310" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
+</a>
 </p>
 
 
@@ -32,7 +52,26 @@
 
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 🚀 Web Developer | Fullstack Developer | Interested in Data Science & Artificial Intelligence.
@@ -42,29 +81,31 @@
 📍From  Tunisia Tn | 🌐 Open to global opportunities 
 
 
-----------------------------------------------------------------------------------------
+
+  
+  
   👧🏽 About me
 ----------------------------------------------------------------------------------------
-
-- 🎓 Graduated with Highest Honour in Data Science from FSEGT- Campus El Manar.
-- 🌱 I'm currently exploring **Generative AI and Web Scraping**
--  👯 I’m looking to collaborate with Sybernetys' dev team on NextJs applications and solutions to expand my fields of knowledge.
-- 💬 Ask me about **Full-Stack Development, Angular, React, NextJs, Express, NodeJs and **anything related to MERN stack and related technologies**
-- 👯 I’m looking to collaborate with **Sybernetys' dev team**
-- 💻 I'm a **Full Stack Developer** passionate about building high-performance apps
-- 📫 Reach me at: **safabelhadjromdhane@gmail.com**
-
-
+  
+  - 🎓 Graduated with Highest Honour in Data Science from FSEGT- Campus El Manar.
+  - 🌱 I'm currently exploring **Generative AI and Web Scraping**
+  -  👯 I’m looking to collaborate with Sybernetys' dev team on NextJs applications and solutions to expand my fields of knowledge.
+  - 💬 Ask me about **Full-Stack Development, Angular, React, NextJs, Express, NodeJs and **anything related to MERN stack and related technologies**
+  - 👯 I’m looking to collaborate with **Sybernetys' dev team**
+  - 💻 I'm a **Full Stack Developer** passionate about building high-performance apps
+  - 📫 Reach me at: **safabelhadjromdhane@gmail.com**
 
 
 
 
-### 🚀 Some of My Projects :
+
+
+  ### 🚀 Some of My Projects :
 
 
 
 
-<table style="width:100%" align="left">
+ <table style="width:100%" align="left">
   
   <tr>
      
@@ -126,12 +167,12 @@
 
   
 
-### 🛠️ Tech Stack
+ ### 🛠️ Tech Stack
 
-<p align="left">
+ <p align="left">
 
 
-
+ 
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
@@ -164,41 +205,40 @@
   
 </p>
 
-<p align="center">
+ <p align="center">
 
   
-  ### 📜 Certifications
+   ### 📜 Certifications
 
   
- - Responsive Web Design - FreeCodeCamp
- - Python - Simplilearn
+   - Responsive Web Design - FreeCodeCamp
+   - Python - Simplilearn
 
 
 
 
- ### 🌍 Languages
+   ### 🌍 Languages
 
-
- -  English  : (C1)
- -  French  : (C2)
- -  Spanish : (A2)
- -  Arabic  : Native Language
+   -  English  : (C1)
+   -  French  : (C2)
+   -  Spanish : (A2)
+   -  Arabic  : Native Language
 
     
   
-  ### 📈 Volunteer Work
+   ### 📈 Volunteer Work
 
 
-  - 🙋🏽‍♀️ Contributor Member, JCI EL Médina (2024 - 2025)
-  - 🙋🏽‍♀️ Volunteer at Jninet Hafsiya (2024)
+   - 🙋🏽‍♀️ Contributor Member, JCI EL Médina (2024 - 2025)
+   - 🙋🏽‍♀️ Volunteer at Jninet Hafsiya (2024)
 
 
 
   
-  ### ✨ Fun Fact
+   ### ✨ Fun Fact
 
  
-   * I enjoy gardening and reading literature and poetry books in my spare time.
+  -  I enjoy gardening and reading literature and poetry books in my spare time.
 
 </p>
 
@@ -206,38 +246,38 @@
 
 
 
- ## 📊 GitHub Stats
+   ## 📊 GitHub Stats
 
  
-<div class="flex flex-cols-6" align="center">
+  <div class="flex flex-cols-6" align="center">
  
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safabelhadjromdhane&layout=compact&theme=radical)  
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safabelhadjromdhane&layout=compact&theme=radical)  
 <!-- Contribution chart (radar-style) -->
-<img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
+ <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
 
   
 
 
-</div>
+ </div>
 
 
 
 
 
-<div class="flex flex-cols-6" align="center">
+ <div class="flex flex-cols-6" align="center">
 
 
 
  <!-- Stats card -->
-<img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&theme=radical&hide_title=true" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&theme=radical&hide_title=true" />
    <!-- GitHub Activity Graph -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safabelhadjromdhane&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safabelhadjromdhane&theme=tokyonight" />
 
 
   
-</div>
+  </div>
 
 
