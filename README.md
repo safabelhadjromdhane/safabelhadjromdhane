@@ -1,3 +1,37 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+🚀 Web Developer | Fullstack Developer | Interested in Data Science & Artificial Intelligence.
+
+💻 Passionate about creating high-performance, intuitive web applications.
+
+📍From  Tunisia Tn | 🌐 Open to global opportunities 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p>
 
 
@@ -86,9 +120,9 @@
 
 
   
-  
+  -----------------------------------------------------------------------------------------------------------------
   👧🏽 About me
-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
   
   - 🎓 Graduated with Highest Honour in Data Science from FSEGT- Campus El Manar.
   - 🌱 I'm currently exploring **Generative AI and Web Scraping**
