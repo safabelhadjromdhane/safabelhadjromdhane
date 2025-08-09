@@ -161,7 +161,7 @@ GitHub Profile :
         
   </td>
 
- <td colspan="6" align="left">
+<!-- <td colspan="6" align="left">
   
   <a href="https://facilitys-international.fr/" onclick="window.open(this.href, '_blank'); return false;">
           
@@ -169,10 +169,8 @@ GitHub Profile :
          
  </a>
  
- </td>
-
-  
-  
+ </td> 
+ 
   <td colspan="6" align="left"> 
   
    <a href="https://www.architectis.fr/" onclick="window.open(this.href, '_blank'); return false;">
@@ -182,6 +180,11 @@ GitHub Profile :
        
    </a>
   </td>
+ -->
+
+  
+  
+ 
 
 
 
