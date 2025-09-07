@@ -21,9 +21,10 @@
 <p>  
 
   
-<a class="py-10">
+<!--<a class="py-10">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=986960&center=true&vCenter=true&lines=Hi+%2C+I%27m+Safa+Belhadj+Romdhane;💻+I%27m+a+Full+stack+developer;" align="left" alt="safa" />
-</a>
+</a> 
+-->
 <!--
 GitHub Profile :
 
@@ -126,13 +127,13 @@ GitHub Profile :
 
 <div class="my-auto py-auto">
 
-  
+  <!--
 ### 🚀 Some of My Projects :
 
 
 
 
- <table style="width:100%" align="left">
+<table style="width:100%" align="left">
   
   <tr>
      
@@ -143,31 +144,10 @@ GitHub Profile :
         
   </td>
 
-<!-- <td colspan="6" align="left">
-  
-  <a href="https://facilitys-international.fr/" onclick="window.open(this.href, '_blank'); return false;">
-          
-  <img src="https://facilitys-international.fr/assets/icons/logo-facilitys.webp" width="60"  height="35"/>
-         
- </a>
- 
- </td> 
- 
-  <td colspan="6" align="left"> 
-  
-   <a href="https://www.architectis.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           
-   <img src="https://www.architectis.fr/assets/icons/logo-architectis.webp" width="60"  height="50"/>
-    
-       
-   </a>
-  </td>
- -->
 
   
   
  
-
 
 
 
@@ -192,7 +172,7 @@ GitHub Profile :
   </tr>
    
  </table>
-</p>
+</p> -->
 
 
   
@@ -228,7 +208,6 @@ GitHub Profile :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <!-- Add more icons as needed -->
-
 
 
 
@@ -309,6 +288,45 @@ GitHub Profile :
 
   
   </div>
+
+
+
+ ## 📊 Contributions Overview
+
+
+
+ <div class="flex flex-cols-4" align="center">
+ 
+
+ ![Github_Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safabelhadjromdhane&layout=compact&theme=github_dark)
+
+<!-- Contribution chart (radar-style) -->
+ <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
+
+ </div>
+
+ <div class="flex flex-cols-4" align="center">
+   
+   ![Productive_Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safabelhadjromdhane&theme=github_dark&utcOffset=8)
+
+ <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
+
+ </div>
+   
+ <div class="flex flex-cols-4" align="center">
+   
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=safabelhadjromdhane&theme=react-dark)
+ <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
+
+ </div>
+
+</div>
+
+<div  class="flex flex-cols-4" align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+   <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
 
 </div>
  </section>
