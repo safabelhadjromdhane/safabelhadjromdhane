@@ -1,11 +1,35 @@
 
   <section class="my-auto py-auto">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 <p>  
+
+  
 <a class="py-10">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=986960&center=true&vCenter=true&lines=Hi+%2C+I%27m+Safa+Belhadj+Romdhane;💻+I%27m+a+Full+stack+developer;" align="left" alt="safa" />
 </a>
 <!--
 GitHub Profile :
+
+
+
+
 
 🚀 Web Developer | Fullstack Developer | Interested in Data Science & Artificial Intelligence.
 
@@ -13,10 +37,10 @@ GitHub Profile :
 
 📍From  Tunisia Tn | 🌐 Open to global opportunities 
 
-<a> 
+<!--<a> 
 <img align="right" alt="coding" width="310" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 </a>
-</p>
+</p>-->
 
 
 
