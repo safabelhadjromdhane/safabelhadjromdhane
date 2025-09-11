@@ -1,7 +1,5 @@
 
-<p><img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=986960&center=true&vCenter=true&lines=Hi+%2C+I%27m+Safa+Belhadj+Romdhane;💻+I%27m+a+Full+stack+developer;" align="left" alt="safa" /></p>
-  
-
+# 👋 Hi, I'm Safa Belhadj Romdhane  
 
 
 💻 **Full Stack Developer** | 🚀 Passionate about Web Development & AI  
