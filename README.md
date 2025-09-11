@@ -256,46 +256,36 @@ GitHub Profile :
 
 
    ## 📊 GitHub Stats
-
+<div class="flex flex-column" align="center">
  
-  <div class="flex flex-cols-6" align="center">
+  <div align="right">
  
-
-
 
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safabelhadjromdhane&layout=compact&theme=radical)  
 <!-- Contribution chart (radar-style) -->
  <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
 
-  
 
 
  </div>
 
 
-
-
-
- <div class="flex flex-cols-6" align="center">
-
-
+ <div  align="left">
 
  <!-- Stats card -->
   <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&theme=radical&hide_title=true" />
    <!-- GitHub Activity Graph -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safabelhadjromdhane&theme=tokyonight" />
-
-
   
   </div>
-
+</div>
 
 
  ## 📊 Contributions Overview
 
 
 
- <div class="flex flex-cols-6" align="center">
+ <div class="flex flex-col cols-6" align="center">
  
 
  ![Github_Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safabelhadjromdhane&layout=compact&theme=github_dark)
@@ -308,7 +298,7 @@ GitHub Profile :
 
  </div>
 
- <div class="flex flex-cols-6" align="center">
+ <div class="flex flex-col cols-6" align="center">
    
    ![Productive_Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safabelhadjromdhane&theme=github_dark&utcOffset=8)
 
