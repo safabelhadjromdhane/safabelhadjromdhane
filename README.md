@@ -295,7 +295,7 @@ GitHub Profile :
 
 
 
- <div class="flex flex-cols-4" align="center">
+ <div class="flex flex-cols-6" align="center">
  
 
  ![Github_Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safabelhadjromdhane&layout=compact&theme=github_dark)
@@ -308,7 +308,7 @@ GitHub Profile :
 
  </div>
 
- <div class="flex flex-cols-4" align="center">
+ <div class="flex flex-cols-6" align="center">
    
    ![Productive_Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safabelhadjromdhane&theme=github_dark&utcOffset=8)
 
@@ -321,7 +321,6 @@ GitHub Profile :
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=safabelhadjromdhane&theme=react-dark)
  <!--<img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />-->
 
- </div>
 
 </div>
 
