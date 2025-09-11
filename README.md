@@ -300,8 +300,11 @@ GitHub Profile :
 
  ![Github_Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safabelhadjromdhane&layout=compact&theme=github_dark)
 
-<!-- Contribution chart (radar-style) -->
+<!-- Contribution chart (radar-style) 
+
  <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
+
+-->
 
  </div>
 
@@ -309,14 +312,14 @@ GitHub Profile :
    
    ![Productive_Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safabelhadjromdhane&theme=github_dark&utcOffset=8)
 
- <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
+<!--- <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" /> -->
 
  </div>
    
  <div class="flex flex-cols-4" align="center">
    
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=safabelhadjromdhane&theme=react-dark)
- <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
+ <!--<img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />-->
 
  </div>
 
