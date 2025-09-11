@@ -287,10 +287,16 @@ GitHub Profile :
 
  <div class="flex flex-row" align="center">
 
- <div>
+ <div class="flex flex-column">
 
 ![Github_Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safabelhadjromdhane&layout=compact&theme=github_dark)
-   
+
+
+   <div class="flex flex-column">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
  </div>
 
  
@@ -301,11 +307,7 @@ GitHub Profile :
 
 </div>
 
-<div >
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
 
  </div>
  </section>
