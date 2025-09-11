@@ -1,7 +1,8 @@
 
-  # 👋 Hi, I'm Safa Belhadj Romdhane  
+<p><img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=986960&center=true&vCenter=true&lines=Hi+%2C+I%27m+Safa+Belhadj+Romdhane;💻+I%27m+a+Full+stack+developer;" align="left" alt="safa" /></p>
+  
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=986960&center=true&vCenter=true&lines=Hi+%2C+I%27m+Safa+Belhadj+Romdhane;💻+I%27m+a+Full+stack+developer;" align="left" alt="safa" />
+
 
 💻 **Full Stack Developer** | 🚀 Passionate about Web Development & AI  
 📍 From Tunisia | 🌐 Open to global opportunities  
@@ -25,6 +26,7 @@
 ---
 
 ## 👧🏽 About Me
+
 - 🎓 Graduated with **Highest Honour in Data Science** from FSEGT – Campus El Manar  
 - 🌱 Currently exploring **Generative AI** and **Web Scraping**  
 - 👯 Looking to collaborate on **Next.js applications** and innovative solutions  
@@ -61,6 +63,7 @@
 ---
 
 ## 🌍 Languages  
+
 - 🇬🇧 English (C1)  
 - 🇫🇷 French (C2)  
 - 🇪🇸 Spanish (A2)  
@@ -69,12 +72,14 @@
 ---
 
 ## 📈 Volunteer Work  
+
 - 🙋🏽‍♀️ Contributor Member, **JCI EL Médina** (2024–2025)  
 - 🙋🏽‍♀️ Volunteer at **Jninet Hafsiya** (2024)  
 
 ---
 
 ## ✨ Fun Fact  
+
 I enjoy **gardening** 🌱 and reading **literature & poetry** 📚 in my free time.  
 
 ---
