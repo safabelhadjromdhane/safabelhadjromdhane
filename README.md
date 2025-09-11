@@ -1,6 +1,8 @@
 
   # 👋 Hi, I'm Safa Belhadj Romdhane  
 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=986960&center=true&vCenter=true&lines=Hi+%2C+I%27m+Safa+Belhadj+Romdhane;💻+I%27m+a+Full+stack+developer;" align="left" alt="safa" />
+
 💻 **Full Stack Developer** | 🚀 Passionate about Web Development & AI  
 📍 From Tunisia | 🌐 Open to global opportunities  
 
@@ -92,7 +94,7 @@ I enjoy **gardening** 🌱 and reading **literature & poetry** 📚 in my free t
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safabelhadjromdhane&theme=github_dark" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=safabelhadjromdhane&theme=react-dark" />
+ <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=safabelhadjromdhane&theme=react-dark" />-->
 </p>
 
 
