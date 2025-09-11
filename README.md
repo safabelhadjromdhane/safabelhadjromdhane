@@ -256,9 +256,9 @@ GitHub Profile :
 
 
    ## 📊 GitHub Stats
-<div class="flex flex-column" align="center">
+<div class="flex flex-row" align="center">
  
-  <div align="right">
+  <div class="rounded-circle">
  
 
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safabelhadjromdhane&layout=compact&theme=radical)  
@@ -270,7 +270,7 @@ GitHub Profile :
  </div>
 
 
- <div  align="left">
+ <div  class="rounded-circle">
 
  <!-- Stats card -->
   <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&theme=radical&hide_title=true" />
@@ -285,42 +285,29 @@ GitHub Profile :
 
 
 
- <div class="flex flex-col cols-6" align="center">
+ <div class="flex flex-row" align="center">
+
+ <div>
+
+![Github_Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safabelhadjromdhane&layout=compact&theme=github_dark)
+   
+ </div>
+
  
-
- ![Github_Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safabelhadjromdhane&layout=compact&theme=github_dark)
-
-<!-- Contribution chart (radar-style) 
-
- <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />
-
--->
-
- </div>
-
- <div class="flex flex-col cols-6" align="center">
    
-   ![Productive_Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safabelhadjromdhane&theme=github_dark&utcOffset=8)
-
-<!--- <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" /> -->
-
- </div>
-   
- <div class="flex flex-cols-4" align="center">
+ <div>
    
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=safabelhadjromdhane&theme=react-dark)
- <!--<img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />-->
-
 
 </div>
 
-<div  class="flex flex-cols-4" align="center">
+<div >
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
- <!--  <img  src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&hide=prs,issues,contribs&theme=tokyonight" />-->
-
 </div>
+
+ </div>
  </section>
   
 
