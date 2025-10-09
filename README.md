@@ -32,6 +32,15 @@
 - 📫 Reach me at: **safabelhadjromdhane@gmail.com**  
 
 ---
+<table style="width:100%" align="left">
+ <tr>
+ <td colspan="10" align="left"> <a href="[https://www.sybernetys-international.com/]" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.sybernetys-international.com/assets/icons/Sybernetys-international.webp" width="50" height="40"/>
+          </a></td>
+ </tr>
+  </table>
+
+---
 
 ## 🛠️ Tech Stack  
 
