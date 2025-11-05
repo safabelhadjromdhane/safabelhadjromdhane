@@ -40,6 +40,10 @@
  <td colspan="10" align="left"> <a href="[https://www.sybernetys-international.com/]" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.sybernetys-international.com/assets/icons/Sybernetys-international.webp" width="50" height="40"/>
           </a></td>
+
+<td colspan="10" align="left"> <a href="[https://www.klass-design.fr/]" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.klass-design.fr/assets/icons/klass-design.webp" width="50" height="40"/>
+          </a></td>
  </tr>
   </table>
 
@@ -75,8 +79,7 @@
 ## 🌍 Languages  
 
 - 🇬🇧 English (C1)  
-- 🇫🇷 French (C2)  
-- 🇪🇸 Spanish (A2)  
+- 🇫🇷 French (C2)   
 - 🇹🇳 Arabic (Native)  
 
 ---
@@ -97,8 +100,6 @@ I enjoy **gardening** 🌱 and reading **literature & poetry** 📚 in my free t
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safabelhadjromdhane&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safabelhadjromdhane&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=safabelhadjromdhane&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
