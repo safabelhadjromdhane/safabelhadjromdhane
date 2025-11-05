@@ -101,7 +101,7 @@ I enjoy **gardening** 🌱 and reading **literature & poetry** 📚 in my free t
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safabelhadjromdhane&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=safabelhadjromdhane&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+ 
 </p>
 
 ---
