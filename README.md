@@ -54,7 +54,7 @@
   </td>
 
   <td colspan="10" align="left"> <a href="https://www.mur-et-tremie.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="	https://www.mur-et-tremie.com/assets/icons/logo-mur-et-tremie.webp" width="50" height="40"/>
+           <img src="https://www.mur-et-tremie.com/assets/icons/logo-mur-et-tremie.webp" width="50" height="40"/>
   </a>
   </td>
  </tr>
