@@ -5,7 +5,7 @@
 💻 **Full Stack Developer** | 🚀 Passionate about Web Development & AI  
 📍 From Tunisia | 🌐 Open to global opportunities  
 
----
+------
 
 ## 🔗 Connect with Me  
 <p align="left">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
----
+-------
 
 ## 👧🏽 About Me
 
@@ -30,7 +30,7 @@
 - 💬 Ask me about **MERN Stack, Angular, React, Next.js, Express, Node.js**  
 - 📫 Reach me at: **safabelhadjromdhane@gmail.com**  
 
----
+-------
 
 ## 🌐 My Websites 
 
@@ -38,29 +38,28 @@
 <table style="width:100%" align="center">
  <tr>
  <td colspan="10" align="left"> <a href="https://www.sybernetys-international.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.sybernetys-international.com/assets/icons/Sybernetys-international.webp" width="50" height="40"/>
- </a></td>
+    <img src="https://www.sybernetys-international.com/assets/icons/Sybernetys-international.webp" width="50" height="40"/>
+ </a>
+ </td>  
 
-        
-
-<td colspan="10" align="left"> <a href="https://www.klass-design.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.klass-design.fr/assets/icons/klass-design.webp" width="50" height="40"/>
-          </a>
-</td>
+   <td colspan="10" align="left"> <a href="https://www.klass-design.fr/" onclick="window.open(this.href, '_blank'); return false;">
+    <img src="https://www.klass-design.fr/assets/icons/klass-design.webp" width="50" height="40"/>
+   </a>
+   </td>
 
   <td colspan="10" align="left"> <a href="https://www.renov-en-main.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="50" height="40"/>
-  </a>
+    <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="50" height="40"/>
+   </a>
   </td>
 
   <td colspan="10" align="left"> <a href="https://www.mur-et-tremie.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.mur-et-tremie.com/assets/icons/logo-mur-et-tremie.webp" width="50" height="40"/>
+      <img src="https://www.mur-et-tremie.com/assets/icons/logo-mur-et-tremie.webp" width="50" height="40"/>
   </a>
   </td>
  </tr>
-  </table>
+</table>
 
----
+-------
 
 ## 🛠️ Tech Stack  
 
@@ -81,13 +80,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
 </p>
 
----
+------
 
 ## 📜 Certifications  
 - Responsive Web Development – FreeCodeCamp  
 - Python – Simplilearn  
 
----
+------
 
 ## 🌍 Languages  
 
@@ -95,38 +94,35 @@
 - 🇫🇷 French (C2)   
 - 🇹🇳 Arabic (Native)  
 
----
+------
 
 ## 📈 Volunteer Work  
 
 - 🙋🏽‍♀️ Contributor Member, **JCI EL Médina** (2024–2025)  
 - 🙋🏽‍♀️ Volunteer at **Jninet Hafsiya** (2024)  
 
----
+-------
 
 ## ✨ Fun Fact  
 
 I enjoy **gardening** 🌱 and reading **literature & poetry** 📚 in my free time.  
 
----
+--------
 
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safabelhadjromdhane&theme=tokyonight" />
- 
 </p>
 
----
+-------
 
 ## 📊 Contributions Overview  
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safabelhadjromdhane&theme=github_dark" />
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=safabelhadjromdhane&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=safabelhadjromdhane&theme=react-dark" />
 </p>
-
-
 
 
 
