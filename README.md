@@ -39,13 +39,19 @@
  <tr>
  <td colspan="10" align="left"> <a href="https://www.sybernetys-international.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.sybernetys-international.com/assets/icons/Sybernetys-international.webp" width="50" height="40"/>
-          </a></td>
+ </a></td>
 
         
 
 <td colspan="10" align="left"> <a href="https://www.klass-design.fr/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.klass-design.fr/assets/icons/klass-design.webp" width="50" height="40"/>
-          </a></td>
+          </a>
+</td>
+
+  <td colspan="10" align="left"> <a href="https://www.renov-en-main.fr/" onclick="window.open(this.href, '_blank'); return false;">
+           <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="50" height="40"/>
+  </a>
+  </td>
  </tr>
   </table>
 
