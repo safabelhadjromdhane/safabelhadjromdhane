@@ -125,7 +125,7 @@ I enjoy **gardening** 🌱 and reading **literature & poetry** 📚 in my free t
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safabelhadjromdhane&theme=github_dark" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=safabelhadjromdhane&theme=react-dark" />
+ <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=safabelhadjromdhane&theme=react-dark" />-->
 </p>
 
 
