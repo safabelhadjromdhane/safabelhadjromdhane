@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Safa Belhadj Romdhane  
 
 
@@ -32,153 +31,46 @@
 
 -------
 
-## 🌐 My Websites 
+## 🌐 Projects & Websites
 
+Selected client and agency websites I've built or contributed to. Hover any logo for the project name.
 
-<table style="width:100%" align="center">
- <tr>
- <td colspan="10" align="left"> <a href="https://www.sybernetys-international.com/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://www.sybernetys-international.com/assets/icons/Sybernetys-international.webp" width="60" height="55"/>
- </a>
- </td>  
+<details open>
+<summary><b>📁 Click to expand / collapse (27 projects)</b></summary>
+<br>
 
-   <td colspan="10" align="left"> <a href="https://www.klass-design.fr/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://www.klass-design.fr/assets/icons/klass-design.webp" width="60" height="55"/>
-   </a>
-   </td>
+<p align="center">
 
-  <td colspan="10" align="left"> <a href="https://www.renov-en-main.fr/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="60" height="55"/>
-   </a>
-  </td>
+<a href="https://www.sybernetys-international.com/" target="_blank" title="Sybernetys International"><img src="https://www.sybernetys-international.com/assets/icons/Sybernetys-international.webp" width="60" height="55" alt="Sybernetys International"/></a>
+<a href="https://www.klass-design.fr/" target="_blank" title="Klass Design"><img src="https://www.klass-design.fr/assets/icons/klass-design.webp" width="60" height="55" alt="Klass Design"/></a>
+<a href="https://www.renov-en-main.fr/" target="_blank" title="Rénov en Main"><img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="60" height="55" alt="Rénov en Main"/></a>
+<a href="https://www.mur-et-tremie.com/" target="_blank" title="Mur et Trémie"><img src="https://www.mur-et-tremie.com/assets/icons/logo-mur-et-tremie.webp" width="60" height="55" alt="Mur et Trémie"/></a>
+<a href="https://www.ikonoklass.fr/" target="_blank" title="Ikonoklass"><img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" width="60" height="55" alt="Ikonoklass"/></a>
+<a href="https://reno-deco.fr/" target="_blank" title="Reno Déco"><img src="https://reno-deco.fr/assets/icons/logo.webp" width="60" height="55" alt="Reno Déco"/></a>
+<a href="https://www.inchaate.fr/" target="_blank" title="Inchaate (.fr)"><img src="https://www.inchaate.fr/assets/icons/inchaate-logo.webp" width="60" height="55" alt="Inchaate"/></a>
+<a href="https://sopranet.com" target="_blank" title="Sopranet"><img src="https://sopranet.com/assets/images/home/logo-sopranet2.webp" width="60" height="55" alt="Sopranet"/></a>
+<a href="https://www.global-reno.com/" target="_blank" title="Global Réno"><img src="https://www.global-reno.com/assets/logo.webp" width="60" height="55" alt="Global Réno"/></a>
+<a href="https://www.welldup.com/" target="_blank" title="Welldup"><img src="https://www.welldup.com/assets/icons/logo-menu.webp" width="60" height="55" alt="Welldup"/></a>
+<a href="https://1001-architectures.com" target="_blank" title="1001 Architectures"><img src="https://1001-architectures.com/assets/icons/logo.webp" width="60" height="55" alt="1001 Architectures"/></a>
+<a href="https://www.spacy-and-cosy.com/" target="_blank" title="Spacy & Cosy"><img src="https://www.spacy-and-cosy.com/Images/spacy-and-cosy-logo.webp" width="60" height="55" alt="Spacy and Cosy"/></a>
+<a href="https://www.centorys.com/" target="_blank" title="Centorys"><img src="https://www.centorys.com/icons/logo.webp" width="60" height="55" alt="Centorys"/></a>
+<a href="https://inchaate.com/" target="_blank" title="Inchaate (.com)"><img src="https://inchaate.com/assets/icons/logo.webp" width="60" height="55" alt="Inchaate"/></a>
+<a href="https://www.strategys-international.com/" target="_blank" title="Strategys International"><img src="https://www.strategys-international.com//assets/images/logo.webp" width="60" height="55" alt="Strategys International"/></a>
+<a href="https://www.strategys-tunisie.com/" target="_blank" title="Strategys Tunisie"><img src="https://www.strategys-tunisie.com/assets/icons/logo.webp" width="60" height="55" alt="Strategys Tunisie"/></a>
+<a href="https://facilitys-international.fr/" target="_blank" title="Facilitys International"><img src="https://facilitys-international.fr/assets/icons/logo-facilitys.webp" width="60" height="55" alt="Facilitys International"/></a>
+<a href="https://linkea-consulting.com/" target="_blank" title="Linkea Consulting (.com)"><img src="https://linkea-consulting.com/assets/icons/logo-linkea.webp" width="60" height="55" alt="Linkea Consulting"/></a>
+<a href="https://www.linkea-consulting.fr/" target="_blank" title="Linkea Consulting (.fr)"><img src="https://www.linkea-consulting.fr/assets/icons/logo.webp" width="60" height="55" alt="Linkea Consulting"/></a>
+<a href="https://www.agexea-energie.com/" target="_blank" title="Agexea Énergie"><img src="https://www.agexea-energie.com/assets/images/home/logo-site.webp" width="60" height="55" alt="Agexea Energie"/></a>
+<a href="https://www.architectis.fr/" target="_blank" title="Architectis"><img src="https://www.architectis.fr/assets/icons/logo-architectis.webp" width="60" height="55" alt="Architectis"/></a>
+<a href="https://www.wellton-consulting.com/" target="_blank" title="Wellton Consulting"><img src="https://www.wellton-consulting.com/assets/images/logo.webp" width="60" height="55" alt="Wellton Consulting"/></a>
+<a href="https://www.mesmurs.fr/" target="_blank" title="Mes Murs"><img src="https://www.mesmurs.fr/assets/images/MesMures-logo.webp" width="60" height="55" alt="Mes Murs"/></a>
+<a href="https://www.gex-batiment.com/" target="_blank" title="GEX Bâtiment"><img src="https://www.gex-batiment.com/assets/icons/gex.webp" width="60" height="55" alt="GEX Batiment"/></a>
+<a href="https://www.ab-engineering.fr/" target="_blank" title="AB Engineering"><img src="https://www.ab-engineering.fr/assets/logo-white.webp" width="60" height="55" alt="AB Engineering"/></a>
+<a href="https://mur-mur.fr/" target="_blank" title="Mur Mur"><img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" width="60" height="55" alt="Mur Mur"/></a>
 
-  <td colspan="10" align="left"> <a href="https://www.mur-et-tremie.com/" onclick="window.open(this.href, '_blank'); return false;">
-      <img src="https://www.mur-et-tremie.com/assets/icons/logo-mur-et-tremie.webp" width="60" height="55"/>
-  </a>
-  </td>
-   <td colspan="10" align="left"> <a href="https://www.ikonoklass.fr/" onclick="window.open(this.href, '_blank'); return false;">
-      <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" width="60" height="55"/>
-  </a>
-  </td>
+</p>
 
-
-
-   <td colspan="10" align="left"> <a href="https://reno-deco.fr/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://reno-deco.fr/assets/icons/logo.webp" width="60" height="55"/>
- </a>
- </td>  
-
-   <td colspan="10" align="left"> <a href="https://www.inchaate.fr/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://www.inchaate.fr/assets/icons/inchaate-logo.webp" width="60" height="55"/>
-   </a>
-   </td>
-
-  <td colspan="10" align="left"> <a href="https://www.renov-en-main.fr/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="60" height="55"/>
-   </a>
-  </td>
-
-  <td colspan="10" align="left"> <a href="https://sopranet.com" onclick="window.open(this.href, '_blank'); return false;">
-      <img src="https://sopranet.com/assets/images/home/logo-sopranet2.webp" width="60" height="55"/>
-  </a>
-  </td>
-   <td colspan="10" align="left"> <a href="https://www.global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
-      <img src="https://www.global-reno.com/assets/logo.webp" width="60" height="55"/>
-  </a>
-  </td>
-
-
-
-  <td colspan="10" align="left"> <a href="https://www.welldup.com/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://www.welldup.com/assets/icons/logo-menu.webp" width="60" height="55"/>
-   </a>
-   </td>
-
-  <td colspan="10" align="left"> <a href="https://1001-architectures.com" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://1001-architectures.com/assets/icons/logo.webp" width="60" height="55"/>
-   </a>
-  </td>
-
-  <td colspan="10" align="left"> <a href="https://www.spacy-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
-      <img src="https://www.spacy-and-cosy.com/Images/spacy-and-cosy-logo.webp" width="60" height="55"/>
-  </a>
-  </td>
-   <td colspan="10" align="left"> <a href="https://www.centorys.com/" onclick="window.open(this.href, '_blank'); return false;">
-      <img src="https://www.centorys.com/icons/logo.webp" width="60" height="55"/>
-  </a>
-  </td>
-
-
- </tr>
- <tr>
-<td colspan="10" align="left"> <a href="https://inchaate.com/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://inchaate.com/assets/icons/logo.webp" width="60" height="55"/>
- </a>
- </td>  
-
-   <td colspan="10" align="left"> <a href="https://www.strategys-international.com/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://www.strategys-international.com//assets/images/logo.webp" width="60" height="55"/>
-   </a>
-   </td>
-
-  <td colspan="10" align="left"> <a href="https://www.strategys-tunisie.com/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://www.strategys-tunisie.com/assets/icons/logo.webp" width="60" height="55"/>
-   </a>
-  </td>
-
-  <td colspan="10" align="left"> <a href="https://facilitys-international.fr/" onclick="window.open(this.href, '_blank'); return false;">
-      <img src="https://facilitys-international.fr/assets/icons/logo-facilitys.webp" width="60" height="55"/>
-  </a>
-  </td>
-   <td colspan="10" align="left"> <a href="https://linkea-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
-      <img src="https://linkea-consulting.com/assets/icons/logo-linkea.webp" width="60" height="55"/>
-  </a>
-  </td>
-
-
-
-   <td colspan="10" align="left"> <a href="https://www.linkea-consulting.fr/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://www.linkea-consulting.fr/assets/icons/logo.webp" width="60" height="55"/>
- </a>
- </td>  
-
-   <td colspan="10" align="left"> <a href="https://www.agexea-energie.com/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://www.agexea-energie.com/assets/images/home/logo-site.webp" width="60" height="55"/>
-   </a>
-   </td>
-
-  <td colspan="10" align="left"> <a href="https://www.architectis.fr/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://www.architectis.fr/assets/icons/logo-architectis.webp" width="60" height="55"/>
-   </a>
-  </td>
-
-  <td colspan="10" align="left"> <a href="https://www.wellton-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
-      <img src="https://www.wellton-consulting.com/assets/images/logo.webp" width="60" height="55"/>
-  </a>
-  </td>
-   <td colspan="10" align="left"> <a href="https://www.mesmurs.fr/" onclick="window.open(this.href, '_blank'); return false;">
-      <img src="https://www.mesmurs.fr/assets/images/MesMures-logo.webp" width="60" height="55"/>
-  </a>
-  </td>
-
-   <td colspan="10" align="left"> <a href="https://www.gex-batiment.com/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://www.gex-batiment.com/assets/icons/gex.webp" width="60" height="55"/>
-   </a>
-   </td>
-
-  <td colspan="10" align="left"> <a href="https://www.ab-engineering.fr/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://www.ab-engineering.fr/assets/logo-white.webp" width="60" height="55"/>
-   </a>
-  </td>
-
-   <td colspan="10" align="left"> <a href="https://mur-mur.fr/" onclick="window.open(this.href, '_blank'); return false;">
-    <img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" width="60" height="55"/>
-   </a>
-  </td>
- </tr>
-
- 
-</table>
+</details>
 
 -------
 
@@ -244,6 +136,3 @@ I enjoy **gardening** 🌱 and reading **literature & poetry** 📚 in my free t
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safabelhadjromdhane&theme=github_dark" />
  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=safabelhadjromdhane&theme=react-dark" />-->
 </p>
-
-
-
