@@ -67,6 +67,13 @@ Selected client and agency websites I've built or contributed to. Hover any logo
 <a href="https://www.gex-batiment.com/" target="_blank" title="GEX Bâtiment"><img src="https://www.gex-batiment.com/assets/icons/gex.webp" width="60" height="55" alt="GEX Batiment"/></a>
 <a href="https://www.ab-engineering.fr/" target="_blank" title="AB Engineering"><img src="https://www.ab-engineering.fr/assets/logo-white.webp" width="60" height="55" alt="AB Engineering"/></a>
 <a href="https://mur-mur.fr/" target="_blank" title="Mur Mur"><img src="https://www.mur-mur.fr/assets/icons/mur-mur-logo.webp" width="60" height="55" alt="Mur Mur"/></a>
+<a href="https://www.agexis.com/" target="_blank" title="Agexis"><img src="https://www.agexis.com/assets/icons/logo-agex.webp" width="60" height="55" alt="Agexis"/></a>
+
+<a href="https://www.maison-presto.com/" target="_blank" title="Maison Presto"><img src="https://www.maison-presto.com/assets/icons/logo-maison-presto.webp" width="60" height="55" alt="Mainson presto"/></a>
+<a href="https://www.enirop.com/" target="_blank" title="Enirop"><img src="https://www.enirop.com/assets/images/Logo-enirop.webp" width="60" height="55" alt="Enirop"/></a>
+<a href="https://www.open-mur.com/" target="_blank" title="Open Mur"><img src="https://www.open-mur.com/assets/logo-op.webp" width="60" height="55" alt="Open Mur"/></a>
+<a href="https://www.finky-consulting.com/" target="_blank" title="Finky Consulting"><img src="https://www.finky-consulting.com/assets/slider/slider3.webp" width="60" height="55" alt="Finky Consulting"/></a>
+
 
 </p>
 
