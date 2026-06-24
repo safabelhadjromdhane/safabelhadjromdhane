@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Safa Belhadj Romdhane  
 
-
 💻 **Full Stack Developer** | 🚀 Passionate about Web Development & AI  
 📍 From Tunisia | 🌐 Open to global opportunities  
 
@@ -28,6 +27,32 @@
 - 👯 Looking to collaborate on **Next.js applications** and innovative solutions  
 - 💬 Ask me about **MERN Stack, Angular, React, Next.js, Express, Node.js**  
 - 📫 Reach me at: **safabelhadjromdhane@gmail.com**  
+
+-------
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safabelhadjromdhane&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=safabelhadjromdhane&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safabelhadjromdhane&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safabelhadjromdhane&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+-------
+
+## 📊 Contributions Overview  
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safabelhadjromdhane&theme=github_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=safabelhadjromdhane&theme=react-dark" />
+</p>
 
 -------
 
@@ -99,7 +124,6 @@ Selected client and agency websites I've built or contributed to. Hover any logo
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>  
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/>  
   <img src="https://www.nltk.org/images/nltk.png" alt="NLTK" width="40" height="40"/>
-
 </p>
 
 ------
@@ -128,20 +152,3 @@ Selected client and agency websites I've built or contributed to. Hover any logo
 ## ✨ Fun Fact  
 
 I enjoy **gardening** 🌱 and reading **literature & poetry** 📚 in my free time.  
-
---------
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safabelhadjromdhane&theme=tokyonight" />
-</p>
-
--------
-
-## 📊 Contributions Overview  
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=safabelhadjromdhane&theme=github_dark" />
- <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=safabelhadjromdhane&theme=react-dark" />-->
-</p>
