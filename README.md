@@ -60,7 +60,89 @@
       <img src="https://www.ikonoklass.fr/assets/icons/logo1.webp" width="50" height="40"/>
   </a>
   </td>
+
+
+
+   <td colspan="10" align="left"> <a href="https://reno-deco.fr/" onclick="window.open(this.href, '_blank'); return false;">
+    <img src="https://reno-deco.fr/assets/icons/logo.webp" width="50" height="40"/>
+ </a>
+ </td>  
+
+   <td colspan="10" align="left"> <a href="https://www.inchaate.fr/" onclick="window.open(this.href, '_blank'); return false;">
+    <img src="tps://www.inchaate.fr/assets/icons/inchaate-logo.webp" width="50" height="40"/>
+   </a>
+   </td>
+
+  <td colspan="10" align="left"> <a href="https://www.renov-en-main.fr/" onclick="window.open(this.href, '_blank'); return false;">
+    <img src="https://www.renov-en-main.fr/assets/icons/renov-en-main-logo.webp" width="50" height="40"/>
+   </a>
+  </td>
+
+  <td colspan="10" align="left"> <a href="https://sopranet.com" onclick="window.open(this.href, '_blank'); return false;">
+      <img src="https://sopranet.com/assets/icons/logo-mur-et-tremie.webp" width="50" height="40"/>
+  </a>
+  </td>
+   <td colspan="10" align="left"> <a href="https://www.global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
+      <img src="https://www.global-reno.com/assets/icons/logo1.webp" width="50" height="40"/>
+  </a>
+  </td>
+
+
+
  </tr>
+ <tr>
+<td colspan="10" align="left"> <a href="https://inchaate.com/" onclick="window.open(this.href, '_blank'); return false;">
+    <img src="https://inchaate.com/assets/icons/logo.webp" width="50" height="40"/>
+ </a>
+ </td>  
+
+   <td colspan="10" align="left"> <a href="https://www.strategys-international.com/" onclick="window.open(this.href, '_blank'); return false;">
+    <img src="https://www.strategys-international.com//assets/images/logo.webp" width="50" height="40"/>
+   </a>
+   </td>
+
+  <td colspan="10" align="left"> <a href="https://www.strategys-tunisie.com/" onclick="window.open(this.href, '_blank'); return false;">
+    <img src="https://www.strategys-tunisie.com/assets/icons/logo.webp" width="50" height="40"/>
+   </a>
+  </td>
+
+  <td colspan="10" align="left"> <a href="https://facilitys-international.fr/" onclick="window.open(this.href, '_blank'); return false;">
+      <img src="https://facilitys-international.fr/assets/icons/logo-facilitys.webp" width="50" height="40"/>
+  </a>
+  </td>
+   <td colspan="10" align="left"> <a href="https://linkea-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
+      <img src="https://linkea-consulting.com/assets/icons/logo-linkea.webp" width="50" height="40"/>
+  </a>
+  </td>
+
+
+
+   <td colspan="10" align="left"> <a href="https://www.linkea-consulting.fr/" onclick="window.open(this.href, '_blank'); return false;">
+    <img src="https://www.linkea-consulting.fr/assets/icons/logo.webp" width="50" height="40"/>
+ </a>
+ </td>  
+
+   <td colspan="10" align="left"> <a href="https://www.agexea-energie.com/" onclick="window.open(this.href, '_blank'); return false;">
+    <img src="https://www.agexea-energie.com/assets/images/home/logo-site.webp" width="50" height="40"/>
+   </a>
+   </td>
+
+  <td colspan="10" align="left"> <a href="https://www.architectis.fr/" onclick="window.open(this.href, '_blank'); return false;">
+    <img src="https://www.architectis.fr//assets/icons/logo-architectis.web" width="50" height="40"/>
+   </a>
+  </td>
+
+  <td colspan="10" align="left"> <a href="https://www.wellton-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
+      <img src=https://www.wellton-consulting.com/assets/images/logo.webp" width="50" height="40"/>
+  </a>
+  </td>
+   <td colspan="10" align="left"> <a href="https://www.mesmurs.fr/" onclick="window.open(this.href, '_blank'); return false;">
+      <img src="https://www.mesmurs.fr/assets/images/MesMures-logo.webp" width="50" height="40"/>
+  </a>
+  </td>
+ </tr>
+
+ 
 </table>
 
 -------
