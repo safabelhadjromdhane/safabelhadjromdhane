@@ -36,7 +36,7 @@
 Selected client and agency websites I've built or contributed to. Hover any logo for the project name.
 
 <details open>
-<summary><b>📁 Click to expand / collapse (27 projects)</b></summary>
+<summary><b>📁 Click to expand / collapse (31 projects)</b></summary>
 <br>
 
 <p align="center">
