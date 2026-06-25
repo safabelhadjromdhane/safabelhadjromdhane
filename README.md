@@ -95,7 +95,7 @@ Selected client and agency websites I've built or contributed to. Hover any logo
 <a href="https://www.maison-presto.com/" target="_blank" title="Maison Presto"><img src="https://www.maison-presto.com/assets/icons/logo-maison-presto.webp" width="60" height="55" alt="Mainson presto"/></a>
 <a href="https://www.enirop.com/" target="_blank" title="Enirop"><img src="https://www.enirop.com/assets/images/Logo-enirop.webp" width="60" height="55" alt="Enirop"/></a>
 <a href="https://www.open-mur.com/" target="_blank" title="Open Mur"><img src="https://www.open-mur.com/assets/logo-op.webp" width="60" height="55" alt="Open Mur"/></a>
-<a href="https://www.finky-consulting.com/" target="_blank" title="Finky Consulting"><img src="https://www.finky-consulting.com/assets/slider/slider3.webp" width="60" height="55" alt="Finky Consulting"/></a>
+<a href="https://www.finky-consulting.com/" target="_blank" title="Finky Consulting"><img src="https://www.finky-consulting.com/assets/icons/logo-menu.webp" width="60" height="55" alt="Finky Consulting"/></a>
 </p>
 
 </details>
