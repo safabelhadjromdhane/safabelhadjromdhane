@@ -74,18 +74,25 @@
 
 ## 📊 Contributions Overview
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safabelhadjromdhane&theme=github_dark" width="100%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=safabelhadjromdhane&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=safabelhadjromdhane&theme=github_dark" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=safabelhadjromdhane&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=safabelhadjromdhane&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safabelhadjromdhane&theme=github_dark&utcOffset=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=safabelhadjromdhane&theme=github_dark&utcOffset=1" /> -->
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=safabelhadjromdhane&theme=github-compact&hide_border=true&bg_color=0d1117&color=7C3AED&line=7C3AED&point=A78BFA" width="100%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=safabelhadjromdhane&theme=github-compact&hide_border=true&bg_color=0d1117&color=7C3AED&line=7C3AED&point=A78BFA" width="100%" /> -->
+
+
+
+
+
+-------
+
 ## 🌐 Projects & Websites
 
 Selected client and agency websites I've built or contributed to. Hover any logo for the project name.
